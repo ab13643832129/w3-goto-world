@@ -9,6 +9,7 @@
 * [为什么知乎上有人会花费这么长的篇幅耐心地回答一个陌生人的问题？ - 桂子月中落的回答 - 知乎](https://www.zhihu.com/question/53753874/answer/1928515079751566921)
 * [为什么大学总要给学生们开设一堆毫无意义，无聊至极的水课？ - 李征义的回答 - 知乎](https://www.zhihu.com/question/447743095/answer/74746211164)
 * [为什么穷人太难成功了？ - 匿名上网的回答 - 知乎](https://www.zhihu.com/question/658808583/answer/1986192408149525843)
+* [资本的力量可以有多大？ - 南州冠冕探花郎的回答 - 知乎](https://www.zhihu.com/question/267109443/answer/681073436)
 * [BILIBI - 性产业研究1：理解一国运作规律和权力结构的黄金视角](https://www.bilibili.com/video/BV1H6AUzcEHz)
 * [为什么别人一眼就知道你是老实人? - 内维尔的回答 - 知乎](https://www.zhihu.com/question/644979426/answer/1958993318189957780)
 * [为什么现在越来越多年轻人不愿意吃苦了？ - 风霜雪月的回答 - 知乎](https://www.zhihu.com/question/1929268098453730067/answer/1944200872193159762)
