@@ -10,5 +10,6 @@ SINK: (Single Income, No Kids)
 
 * [劳动部动及职业安全卫生研究所 - 我国(台湾)中高龄工作者场处境调查：企业中高龄友善文化工作者心理安全感及心理健康之探讨](https://www.ilosh.gov.tw/media/pfaf3qul/ilosh109-r308.pdf)
 * 国立中正大学成人及续教育高懿者教育研究所 - 中高龄者工作动机兴工作偏好之关系研究
+* [tvbs - 最怕房客孤獨死　日本房東拒租：獨居老人](https://news.tvbs.com.tw/focus/2456083)
 
 
