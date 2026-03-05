@@ -1,4 +1,9 @@
 
+
+<img src="https://raw.githubusercontent.com/hoochanlon/hamuleite/refs/heads/master/W3UnitTest/yingmapian.png" height="230" width="auto">
+
+---
+
 [南方人口 - 延续香火的理想与普遍绝嗣的现实基于家谱的人口数据?](http://www.personpsy.org/uploadfiles/file/%E5%BB%B6%E7%BB%AD%E9%A6%99%E7%81%AB%E7%9A%84%E7%90%86%E6%83%B3%E4%B8%8E%E6%99%AE%E9%81%8D%E7%BB%9D%E5%97%A3%E7%9A%84%E7%8E%B0%E5%AE%9E%E2%80%94%E2%80%94%E5%9F%BA%E4%BA%8E%E5%AE%B6%E8%B0%B1%E7%9A%84%E4%BA%BA%E5%8F%A3%E6%95%B0%E6%8D%AE_%E9%99%88%E7%86%99.pdf)
 
 * [为何感觉利己变得越来越正义化了？ - 红林矢的回答 - 知乎](https://www.zhihu.com/question/626669172/answer/3334615801)
@@ -15,6 +20,7 @@
 * [如何配置自己的国籍最有利？ - 科技龙头茅台的回答 - 知乎](https://www.zhihu.com/question/1932925390768284333/answer/1944047212914013433)
 * [未来国内涌入大量第三世界移民怎么办？ - momo的回答 - 知乎](https://www.zhihu.com/question/654762185/answer/1961804595530536671)
 * [为什么"斩杀线"、"叠甲"、"破防"这些游戏术语最近频繁出现在非游戏讨论中？ - Paranoia的回答 - 知乎](https://www.zhihu.com/question/1992989473001211338/answer/1994881094563160435)
+* [中国人口这么多，为什么顶端人才比不了西方？ - 陳雁回的回答 - 知乎](https://www.zhihu.com/question/301814081/answer/1985134297712186722)
 
 
-<img src="https://raw.githubusercontent.com/hoochanlon/hamuleite/refs/heads/master/W3UnitTest/yingmapian.png" height="230" width="auto">
+
