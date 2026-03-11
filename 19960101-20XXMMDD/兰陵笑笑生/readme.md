@@ -22,3 +22,4 @@
 * [撒贝宁是怎么被保送的北京大学的呢？ - 随风过往的回答 - 知乎](https://www.zhihu.com/question/315581082/answer/113390959701)
 * [这个社会如此的卷，为什么人类不认为自己走错了？ - 秋水它是水的回答 - 知乎](https://www.zhihu.com/question/790273494/answer/27022349048)
 * [一路走来，发现有些真相是滴血的。 - 人参的文章 - 知乎](https://zhuanlan.zhihu.com/p/1901345746424432340)
+* [什么东西大学生最该学却没人教？ - 溯栖Still的回答 - 知乎](https://www.zhihu.com/question/11463857483/answer/1951225944602830324)
