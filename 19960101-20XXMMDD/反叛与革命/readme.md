@@ -10,7 +10,7 @@ quora
 * https://www.quora.com/What-makes-Maos-Little-Red-Book-into-the-second-most-published-printed-sold-bought-and-read-books-in-the-whole-world-after-the-Bible
 * https://qr.ae/pC0fmA
 
-金瓶梅
+[为什么《金瓶梅》不适合年轻人读？ - 汤郁的回答 - 知乎](https://www.zhihu.com/question/2006478033977091699/answer/2006481542013264852)
 
 * https://ealc.fas.harvard.edu/chinese-literature-236-chinas-banned-book-reading-jin-ping-mei
 * [《繡像金瓶梅》崇禎足本原文新版橫排 pdf, epub, txt, doc 文件](https://archive.org/details/20210209_20210209_0144/%E9%87%91%E7%93%B6%E6%A2%85_%E5%B4%87%E7%A5%AF%E6%9C%AC_%E6%96%B0%E7%89%88%E6%A8%AA%E6%8E%92/mode/1up)
