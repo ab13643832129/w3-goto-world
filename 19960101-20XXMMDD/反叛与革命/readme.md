@@ -16,14 +16,15 @@ quora
 [为什么《金瓶梅》不适合年轻人读？ - 汤郁的回答 - 知乎](https://www.zhihu.com/question/2006478033977091699/answer/2006481542013264852)、[为什么《金瓶梅》的作者似乎没有心结？ - 知乎
 ](https://www.zhihu.com/question/22139744)
 
+---
 
 * https://ealc.fas.harvard.edu/chinese-literature-236-chinas-banned-book-reading-jin-ping-mei
   * download：https://storage.lib.uchicago.edu/pres/2016/pres2016-0383-01-01.pdf
-* https://ocw.aca.ntu.edu.tw/courses/103S105/2
 * https://cis.nccu.edu.tw/coursemap/Students/CourseDetail.aspx?schYy=104&schSmt=1&subNum=031008&subGop=06&smt=1&teaNum=119497&depNum=T04&gdeTpe=1
 
+---
 
-
+* [臺大開放式課程 - 白先勇人文講座 ─ 明清時期章回小說選讀：問題和方法](https://ocw.aca.ntu.edu.tw/courses/103S105/2)
 * [《繡像金瓶梅》崇禎足本原文新版橫排 pdf, epub, txt, doc 文件](https://archive.org/details/20210209_20210209_0144/%E9%87%91%E7%93%B6%E6%A2%85_%E5%B4%87%E7%A5%AF%E6%9C%AC_%E6%96%B0%E7%89%88%E6%A8%AA%E6%8E%92/mode/1up)
 * [臺北國家圖書館 《金瓶梅詞話》萬曆原本彩色掃描 國立故宮博物院藏](https://archive.org/details/20210217_20210217_1959/%E9%87%91%E7%93%B6%E6%A2%85%E8%A9%9E%E8%A9%B1_%E5%BD%A9%E8%89%B2%E6%8E%83%E6%8F%8F%E6%96%87%E6%AA%94%E4%B8%80_%E8%87%BA%E5%8C%97%E6%95%85%E5%AE%AE%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F_%E6%98%8E%E8%90%AC%E6%9B%86%E4%B8%81%E5%B7%B3%E5%88%8A%E6%9C%AC/page/n789/mode/2up)
 * [中国哲学书电子化计划 《金瓶梅》 中英对照](https://ctext.org/jinpingmei/ch1/zhs)
