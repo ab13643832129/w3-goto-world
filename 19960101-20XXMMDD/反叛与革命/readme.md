@@ -54,12 +54,12 @@ quora
 * [为什么电影行业突然就变凉了？ - 阿凯本凯-修罗道的回答 - 知乎](https://www.zhihu.com/question/7491591019/answer/1978010870580809845) (金融思维模式)
 * [BILIBILI - 为什么必须搞共同富裕？](https://www.bilibili.com/video/BV1A3411e7PA) （高通胀、高失业率、高债务；历来革命的都是不得志秀才）
 * [“把民营企业家当做自己人”后，高碑店产业园被通知一周内搬离 - 茶侧读书的文章 - 知乎](https://zhuanlan.zhihu.com/p/651723165) (缅北就在身边)
-* [BILIBILI - 回信 | 中国官场与万达广场](https://www.bilibili.com/video/BV15pQUBWEcV) (权力、建议)
 * [BILIBILI -【参考信息第580期】招商局长联合讨薪；举报领导退休母亲](https://www.bilibili.com/video/BV1rcQZBbEMo)  (躺平岗位指南)
-* [BILIBILI - 回信 | 中国政府2026一定会做的十件事情，但对你来说意味着什么？只有工作和计划是重要的。](https://www.bilibili.com/video/BV1ARXKBsEZn)
-* [BILIBILI - 解乏 | 中国社会只会右转，顺应局势，接受现实，寻找机会。](https://www.bilibili.com/video/BV13BXKBKE9y)
-* [BILIBILI - 解乏 | 不要传播力工思维，要有红线意识，不要攻击基本价值观。](https://www.bilibili.com/video/BV1gCXQB8ESk)
 * [BILIBILI - 【万字打假】捭阖哗（原名DngGentle）这个骗子是如何用AI获取你的信任的？计算机专业科班科普分析AI生成文稿视频内容伴生的骗局！从头到脚全是假的！](https://www.bilibili.com/video/BV1APUEBVERh) (正确与错误信息混淆，洗稿，类似 ACE 山河君)
+  * [BILIBILI - 回信 | 中国政府2026一定会做的十件事情，但对你来说意味着什么？只有工作和计划是重要的。](https://www.bilibili.com/video/BV1ARXKBsEZn)
+  * [BILIBILI - 解乏 | 中国社会只会右转，顺应局势，接受现实，寻找机会。](https://www.bilibili.com/video/BV13BXKBKE9y)
+  * [BILIBILI - 解乏 | 不要传播力工思维，要有红线意识，不要攻击基本价值观。](https://www.bilibili.com/video/BV1gCXQB8ESk)
+  * [BILIBILI - 回信 | 中国官场与万达广场](https://www.bilibili.com/video/BV15pQUBWEcV) (权力、建议)
 
 ---
 
