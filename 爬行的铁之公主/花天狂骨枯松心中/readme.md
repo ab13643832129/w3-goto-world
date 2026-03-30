@@ -17,5 +17,6 @@
 * [公墓只能使用20年，如果子孙不续费，会如何处理？ - 善人伏匿的回答 - 知乎](https://www.zhihu.com/question/519385416/answer/2698182909) (大城市能出现墓地房不是没有由头的)
 * [公墓只能使用20年，如果子孙不续费，会如何处理？ - 周蜀黍不爱喝啤酒的回答 - 知乎](https://www.zhihu.com/question/519385416/answer/73594146337)
 * [公墓只能使用20年，如果子孙不续费，会如何处理？ - 似蜉蝣的回答 - 知乎](https://www.zhihu.com/question/519385416/answer/2389872122)
+* [如果家里老人死在外地，自己带尸体返乡违法吗？ - 西湖边的奔波儿灞的回答 - 知乎](https://www.zhihu.com/question/635915153/answer/2015808041551963937)
 
 <!-- https://deathwithdignity.org -->
