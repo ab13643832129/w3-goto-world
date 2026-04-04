@@ -4,6 +4,7 @@
 * [大白话讲透我国18个税种 - Sandy的文章 - 知乎](https://zhuanlan.zhihu.com/p/2018625039436624883) (如果一个概念可以用简单明了的话语解释，说明他认知比较深刻了)
 * [是不是现在很多人反感辩证法？为什么？](https://www.zhihu.com/question/446125423/answer/49740081704)
 * [有哪些冷门又有趣的历史知识？ - Blutenzauber的回答 - 知乎](https://www.zhihu.com/question/427926394/answer/88987750222)
+* [你的身边有没有让你三观尽毁的事？ - 果儿山的回答 - 知乎](https://www.zhihu.com/question/519161475/answer/3364120084)
 * [BILIBILI - 判断美国国运只看这3点！国家兴衰的底层规律：企业赚钱、充分就业、人口增长](https://www.bilibili.com/video/BV1P69KBZEr8)
 * [山西太原一学校职工自曝吃空饷 6 年，为何能长期存在，学校应承担哪些责任？ - 猫人的回答 - 知乎](https://www.zhihu.com/question/2020542400519489118/answer/2021605171394875633)
 * [《读者》和《意林》明明都是根正苗红的杂志，为什么会刊登一堆崇洋媚外的文章？ - 符拉迪沃斯托克的回答 - 知乎](https://www.zhihu.com/question/1961195019055654730/answer/1975884866777289453)
