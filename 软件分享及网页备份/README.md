@@ -2,7 +2,7 @@
 
 ### 工具 链·表
 
-* 年度访问量最大的网站：https://zh.semrush.com/trending-websites/
+* 装个机吧：https://zhuangit.ababtools.com
 * 软件下载：https://alternativeto.net
 * chrome插件下载：https://www.crxsoso.com
 * 这B班不值得：https://worthjob.zippland.com
