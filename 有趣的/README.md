@@ -12,7 +12,9 @@
 * 催化剂加：https://www.researchercosmos.com
 * 什么值得读：https://shenmezhidedu.com
 * 无产阶级图书馆：https://library.proletarian.me
+* brilliance-pub：https://www.brilliance-pub.com/
 * https://discuss.sci-hub.org.cn/d/279
+* z库：https://zlibrary.vip
 
 
 八卦
